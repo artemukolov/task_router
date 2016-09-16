@@ -1,0 +1,26 @@
+{
+    "name": ":artemukolov/test_router",
+    "type": "library",
+    "description": ":Dextra algorithm implementation",
+    "keywords": [
+        ":vendor",
+        ":package_name"
+    ],
+    "homepage": "https://github.com/artemukolov/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ":Artem Ukolov",
+            "email": ":artem@ukolov.info",
+            "homepage": "http://ukolov.info",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : "~5.6|~7.0"
+    },
+   
+    "config": {
+        "sort-packages": true
+    }
+}
